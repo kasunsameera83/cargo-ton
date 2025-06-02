@@ -1,0 +1,8 @@
+{
+    "conpilerOptions": {
+        "composite": true,
+        "module": "ESNext",
+        "moduleResolution": "Node"
+    },
+    "include": ["vite.config.ts", "vite.config.js"]
+}
