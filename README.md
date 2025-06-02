@@ -1,17 +1,70 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚢 CargoTon – Logistics & Shipping Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CargoTon is a fully responsive, modern logistics and cargo shipping website built using **React (Vite)**, **Tailwind CSS**, **Ant Design**, and **Framer Motion**.  
+It features a clean UI, smooth animations, and a mobile-first layout designed to represent a global shipping brand.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![CargoTon Screenshot](./Home.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# cargo-ton
-A fully responsive logistics and shipping website built with React.js, Tailwind CSS, Ant Design, and Framer Motion. This project includes a clean, modern UI and smooth animations, designed using Adobe XD, Illustrator, and Photoshop. It demonstrates a complete front-end solution for a shipping service provider.
->>>>>>> 1d0398029a9c8bf726f2d50bc8daeafa826fa442
+## 🖌️ Design Overview
+
+The UI was designed using:
+
+- **Adobe XD** – For layout and interactive prototyping
+- **Adobe Illustrator** – For icons and vector assets
+- **Adobe Photoshop** – For image editing and graphic cleanup
+
+🕒 **Time Spent on Design:** ~6 hours
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ [React](https://reactjs.org/) (with [Vite](https://vitejs.dev/))
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- 🧱 [Ant Design (AntD)](https://ant.design/)
+- 🎞 [Framer Motion](https://www.framer.com/motion/)
+
+🕒 **Time Spent on Development:** ~10 hours
+
+---
+
+## 📱 Features
+
+- ✅ Fully responsive for all devices
+- ⚙️ Component-based code structure
+- ✨ Smooth UI animations using Framer Motion
+- 🧾 Quick quote form
+- 📈 Statistics, client reviews, services, and blog layout
+
+---
+
+## ⚙️ Getting Started with Vite
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/kasunsameera83/cargo-ton.git
+cd cargoton
+```
+
+## nstall Dependencies
+
+npm install
+
+## Start Development Server
+
+npm run dev
+
+## Build for Production
+
+npm run build
+
+👤 Author
+W.K. Sameera
+Senior UI/UX Engineer | Frontend Developer | Animator
+📧 topcreativecreations@gmail.com
+🌐 [Linkedin](https://www.linkedin.com/in/kasun-sameera-1921b2145/)
